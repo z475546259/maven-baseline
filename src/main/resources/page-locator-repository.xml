@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map>
+	<!--locator of page map info -->
+	<page pageName="com.hpe.page.LoginPage">
+		<!--Locator lists -->
+		<locator type="ByXpath" timeOut="3" value=".//*[@id='username']">logname</locator>
+		<locator type="ByXpath" timeOut="3" value=".//*[@id='password']">logpass</locator>
+		<locator type="ByXpath" timeOut="3" value="html/body/div[2]/div[3]/img">logbtn</locator>
+		
+	</page>
+</map>

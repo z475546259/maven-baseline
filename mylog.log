@@ -1,0 +1,171 @@
+2016-12-08 17:14:55,379 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-08 17:15:04,625 ERROR c.h.u.Log [main] com.hpe.util.xmlUtils: Can't find //maven-baseline//src//main//resources//page-locator-repository.xml
+2016-12-08 17:17:16,108 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-08 17:17:24,672 ERROR c.h.u.Log [main] com.hpe.util.xmlUtils: Can't find //maven-baseline//src//main//resources//page-locator-repository.xml
+2016-12-08 17:21:52,699 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-08 17:22:00,885 ERROR c.h.u.Log [main] com.hpe.util.xmlUtils: Can't find //maven-baseline//src//main//resources//page-locator-repository.xml
+2016-12-08 17:24:45,855 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-08 17:24:46,202 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-08 17:24:46,203 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-08 17:24:46,204 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-08 17:24:46,204 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-08 17:24:46,253 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logname
+2016-12-08 17:24:46,254 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-08 17:24:46,255 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-08 17:24:46,255 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-08 17:24:46,256 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logpass
+2016-12-08 17:24:46,256 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-08 17:24:46,256 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-08 17:24:46,257 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-08 17:24:46,258 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logbtn
+2016-12-08 17:25:34,414 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-08 17:25:34,700 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-08 17:25:34,702 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-08 17:25:34,703 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-08 17:25:34,703 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-08 17:25:34,710 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logname
+2016-12-08 17:25:34,711 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-08 17:25:34,713 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-08 17:25:34,714 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-08 17:25:34,714 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logpass
+2016-12-08 17:25:34,714 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-08 17:25:34,715 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-08 17:25:34,716 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-08 17:25:34,717 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logbtn
+2016-12-12 16:28:39,811 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-12 16:28:40,471 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-12 16:28:40,472 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-12 16:28:40,472 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-12 16:28:40,473 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-12 16:28:40,539 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logname
+2016-12-12 16:28:40,540 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-12 16:28:40,540 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-12 16:28:40,540 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-12 16:28:40,541 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logpass
+2016-12-12 16:28:40,541 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-12 16:28:40,542 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-12 16:28:40,542 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-12 16:28:40,542 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logbtn
+2016-12-12 16:42:52,001 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-12 16:42:52,320 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-12 16:42:52,321 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-12 16:42:52,322 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-12 16:42:52,322 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-12 16:42:52,350 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logname
+2016-12-12 16:42:52,351 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-12 16:42:52,351 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-12 16:42:52,352 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-12 16:42:52,352 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logpass
+2016-12-12 16:42:52,353 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-12 16:42:52,354 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-12 16:42:52,354 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-12 16:42:52,355 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logbtn
+2016-12-12 16:45:22,051 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-12 16:45:22,394 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-12 16:45:22,395 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-12 16:45:22,396 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-12 16:45:22,396 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-12 16:45:22,483 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logname
+2016-12-12 16:45:22,484 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-12 16:45:22,484 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-12 16:45:22,485 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-12 16:45:22,487 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logpass
+2016-12-12 16:45:22,489 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator type ByXpath
+2016-12-12 16:45:22,490 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator timeOut 3
+2016-12-12 16:45:22,492 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-12 16:45:22,493 INFO c.h.u.Log [main] com.hpe.util.xmlUtils: locator Name is logbtn
+2016-12-15 14:01:23,433 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-15 14:01:23,747 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-15 14:01:23,747 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:01:23,748 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:01:23,748 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-15 14:01:23,790 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logname
+2016-12-15 14:01:23,791 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:01:23,792 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:01:23,792 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-15 14:01:23,793 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logpass
+2016-12-15 14:01:23,793 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:01:23,793 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:01:23,794 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-15 14:01:23,794 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logbtn
+2016-12-15 14:01:23,795 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:01:24,050 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:03:05,835 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-15 14:03:06,147 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-15 14:03:06,148 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:03:06,150 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:03:06,151 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-15 14:03:06,156 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logname
+2016-12-15 14:03:06,156 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:03:06,157 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:03:06,157 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-15 14:03:06,158 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logpass
+2016-12-15 14:03:06,158 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:03:06,159 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:03:06,159 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-15 14:03:06,160 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logbtn
+2016-12-15 14:03:06,161 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:03:06,410 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:03:06,497 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:15:15,310 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-15 14:15:15,595 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-15 14:15:15,596 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:15:15,596 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:15:15,597 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-15 14:15:15,602 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logname
+2016-12-15 14:15:15,603 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:15:15,604 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:15:15,604 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-15 14:15:15,605 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logpass
+2016-12-15 14:15:15,605 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:15:15,606 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:15:15,606 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-15 14:15:15,607 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logbtn
+2016-12-15 14:15:15,608 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:16:13,797 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-15 14:16:14,084 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-15 14:16:14,085 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:16:14,085 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:16:14,086 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-15 14:16:14,091 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logname
+2016-12-15 14:16:14,092 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:16:14,093 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:16:14,093 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-15 14:16:14,094 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logpass
+2016-12-15 14:16:14,094 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:16:14,095 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:16:14,095 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-15 14:16:14,096 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logbtn
+2016-12-15 14:16:14,096 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:17:14,427 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-15 14:17:14,707 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-15 14:17:14,709 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:17:14,709 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:17:14,710 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-15 14:17:14,716 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logname
+2016-12-15 14:17:14,717 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:17:14,718 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:17:14,718 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-15 14:17:14,719 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logpass
+2016-12-15 14:17:14,719 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:17:14,720 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:17:14,720 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-15 14:17:14,721 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logbtn
+2016-12-15 14:17:14,722 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:17:44,517 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:18:18,711 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
+2016-12-15 14:22:17,025 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: com.hpe.page.LoginPage
+2016-12-15 14:22:17,468 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: page Info is:com.hpe.page.LoginPage
+2016-12-15 14:22:17,469 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:22:17,470 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:22:17,470 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='username']
+2016-12-15 14:22:17,495 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logname
+2016-12-15 14:22:17,496 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:22:17,496 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:22:17,497 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value .//*[@id='password']
+2016-12-15 14:22:17,497 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logpass
+2016-12-15 14:22:17,497 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator type ByXpath
+2016-12-15 14:22:17,498 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator timeOut 3
+2016-12-15 14:22:17,498 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: get locator value html/body/div[2]/div[3]/img
+2016-12-15 14:22:17,499 INFO c.s.u.Log [main] com.seleniumwork.util.xmlUtils: locator Name is logbtn
+2016-12-15 14:22:17,499 DEBUG c.s.u.Log [main] com.seleniumwork.util.GetElement: find element By xpath
