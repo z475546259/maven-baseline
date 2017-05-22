@@ -10,6 +10,7 @@ public class Dhlogintest {
 	@Test
 	public void Dhlogintest() {
 		WebDriver driver2 = DriverFactory.getIEDriver();
+//		WebDriver driver2 = DriverFactory.getFirefoxDriver();
 	    driver2.get("http://www.cqdehua.cn/mgr/login.html");//访问地址，这个环节以后可以封装到 page 类中
 		//DHlogin2 d2 = new DHlogin2("C:\\Users\\zhanzhiq\\workspace\\maven-baseline\\src\\main\\resources\\page-locator-repository.xml", "com.hpe.page.LoginPage", driver2);
 		DHlogin2 d2 = new DHlogin2(DriverFactory.getLocatorPath("\\page-locator-repository.xml"), "com.hpe.page.LoginPage", driver2);

@@ -3,7 +3,8 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.test.logging.maven_baseline.AppTest"/>
+      <!-- <class name="com.test.logging.maven_baseline.AppTest"/> -->
+      <class name="com.seleniumwork.testcase.Dhlogintest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
